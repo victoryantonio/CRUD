@@ -1,2 +1,2 @@
 # CRUD
-Aplikasi CRUD (Create, Read, Update, and Delete) Data
+Aplikasi CRUD (Create, Read, Update, and Delete) Data Mahasiswa
