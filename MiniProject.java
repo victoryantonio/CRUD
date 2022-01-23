@@ -17,6 +17,7 @@ public class MiniProject {
 		daftarMahasiswa.add(new Mahasiswa("JESSIKA OVA NATHASYA","622018002"));
 		daftarMahasiswa.add(new Mahasiswa("JEREMI SITANGGANG","622018015"));
 		daftarMahasiswa.add(new Mahasiswa("ANTONIO VICTORI SEMBIRING","622019014"));
+		daftarMahasiswa.add(new Mahasiswa("ANUGRAH IGO WIBOWO","622019017"));
 		
 		do {
 		System.out.println("Menu");
